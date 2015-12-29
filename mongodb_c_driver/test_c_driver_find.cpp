@@ -1,5 +1,5 @@
 /*
-* 测试mongodb集群的tag查询
+* 娴嬭瘯mongodb闆嗙兢鐨則ag鏌ヨ
 * g++ test_c_driver_find.cpp -I./mongodb-c-driver/include/libbson-1.0 -I./mongodb-c-driver/include/libmongoc-1.0 -L./mongodb-c-driver/lib -lmongoc-1.0 -lpthread -lrt  -lbson-1.0 -lssl -lcrypto -o demo
 * Authors: cswuyg
 * Date:    2015/12/29 
