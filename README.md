@@ -1,1 +1,1 @@
-collect my exercise / demo about mongodb use.
+collect my exercise / demo for mongodb driver use.
